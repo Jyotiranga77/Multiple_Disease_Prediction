@@ -15,7 +15,7 @@ This project predicts multiple diseases based on patient symptoms using a superv
 - Total Records: 4920
 - Features: 132 symptoms
 - Target: 1 (`prognosis`)
-- 
+  
 ## 🛠️ Tools & Libraries
 
 - Python
@@ -24,6 +24,11 @@ This project predicts multiple diseases based on patient symptoms using a superv
 - Scikit-learn (RandomForestClassifier)
 - Matplotlib
 - Seaborn
+
+## google colab link
+
+https://colab.research.google.com/drive/1IaD9B9lyn7tWvj1iWaE8hg9BaPkCOZ0A?usp=sharing
+
 
 ## 📌 Note
 
