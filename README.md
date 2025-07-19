@@ -29,6 +29,8 @@ This project predicts multiple diseases based on patient symptoms using a superv
 
 https://colab.research.google.com/drive/1IaD9B9lyn7tWvj1iWaE8hg9BaPkCOZ0A?usp=sharing
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IaD9B9lyn7tWvj1iWaE8hg9BaPkCOZ0A?usp=sharing)
+
 
 ## 📌 Note
 
